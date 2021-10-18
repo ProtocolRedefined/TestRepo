@@ -1,3 +1,3 @@
 # TestRepo
 
-Draft PR Check.
+Check runs test PR.
